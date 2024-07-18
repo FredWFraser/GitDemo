@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-07-16T14:53:58 EDT" name="Loan Department" finished-at="2024-07-16T14:54:16 EDT" duration-ms="18675">
+    <groups>
+    </groups>
+    <test started-at="2024-07-16T14:53:58 EDT" name="Personal Loan" finished-at="2024-07-16T14:54:16 EDT" duration-ms="18675">
+      <class name="MavenFun.SelIntroduction">
+        <test-method signature="selDemo()[pri:0, instance:MavenFun.SelIntroduction@2667f029]" started-at="2024-07-16T14:53:58 EDT" name="selDemo" finished-at="2024-07-16T14:54:16 EDT" duration-ms="18629" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selDemo -->
+      </class> <!-- MavenFun.SelIntroduction -->
+    </test> <!-- Personal Loan -->
+  </suite> <!-- Loan Department -->
+</testng-results>
